@@ -1,4 +1,4 @@
-{"qasidas": [
+[
    {
       "id": "5CD81DB1-0239-4F25-94E8-E0A0EE1780A5",
       "arabic": "أبوبكر",
@@ -296,14 +296,6 @@
       "pageCount": 8
    },
    {
-      "id": "CDC0DE1F-0A46-49A3-858E-5DF170E7659D",
-      "arabic": "حسبنا الله ونعم الوكيل ",
-      "english": "Hasbounallaha wa nihmal wakil - Hamdan lirabbi",
-      "pdfURL": "http://127.0.0.1:8080/Hasbounallaha_wa_nihmal_wakil_-_Hamdan_lirabbi.pdf",
-      "versesCount": 19,
-      "pageCount": 8
-   },
-   {
       "id": "8270923C-7E97-4023-82C3-28B40888FA89",
       "arabic": "حسبنا الله ونعم الوكيل",
       "english": "Hasbounallaha wa nihmal wakil - Hamidtu Man Yuhsimuni",
@@ -332,14 +324,6 @@
       "arabic": "حقّ البكاء",
       "english": "Houqal Boukaa u",
       "pdfURL": "http://127.0.0.1:8080/Houqal_Boukaa_u.pdf",
-      "versesCount": 78,
-      "pageCount": 8
-   },
-   {
-      "id": "FC2400FC-ACEC-465F-9C68-A3EC814EE828",
-      "arabic": "حق البكاء",
-      "english": "Faut-il pleurez?",
-      "pdfURL": "http://127.0.0.1:8080/Faut-il_pleurez?.pdf",
       "versesCount": 78,
       "pageCount": 8
    },
@@ -426,8 +410,8 @@
    {
       "id": "E833EF4A-E92B-4DDA-AF57-8A27A2D79F2A",
       "arabic": "جذب القلوب لعلَّام الغيوب",
-      "english": "Lattirance des cœurs vers la connaissance des mysteres",
-      "pdfURL": "http://127.0.0.1:8080/Lattirance_des_cœurs_vers_la_connaissance_des_mysteres.pdf",
+      "english": "Lattirance des coeurs vers la connaissance des mysteres",
+      "pdfURL": "http://127.0.0.1:8080/Lattirance_des_coeurs_vers_la_connaissance_des_mysteres.pdf",
       "versesCount": 185,
       "pageCount": 8
    },
@@ -448,14 +432,6 @@
       "pageCount": 8
    },
    {
-      "id": "FBB86A0B-12F4-4B72-9F48-A0074D580E8C",
-      "arabic": "الجوهر النّفيس",
-      "english": "Le Joyau Precieux",
-      "pdfURL": "http://127.0.0.1:8080/Le_Joyau_Precieux.pdf",
-      "versesCount": 675,
-      "pageCount": 8
-   },
-   {
       "id": "D2BC0EA4-1E79-4796-BE2F-40105156B4D1",
       "arabic": "جزاء الإحسان للخدّام",
       "english": "Jazaahul ihsaan lil xuddaami - alhamdulilaahi lazi",
@@ -469,14 +445,6 @@
       "english": "Jazaahul ihsaan lil xuddaami - alhamdulilaahi lazi youdiassi",
       "pdfURL": "http://127.0.0.1:8080/Jazaahul_ihsaan_lil_xuddaami_-_alhamdulilaahi_lazi_youdiassi.pdf",
       "versesCount": 21,
-      "pageCount": 8
-   },
-   {
-      "id": "6E59FEFA-FBDF-4A5B-8D2B-BE20F66EDBA3",
-      "arabic": "جذب القلوب لعلَّام الغيوب",
-      "english": "Lattirance des cœurs vers la connaissance des mysteres",
-      "pdfURL": "http://127.0.0.1:8080/Lattirance_des_cœurs_vers_la_connaissance_des_mysteres.pdf",
-      "versesCount": 185,
       "pageCount": 8
    },
    {
@@ -874,8 +842,8 @@
    {
       "id": "3BB0C077-C6DA-454A-993F-1BD93768F749",
       "arabic": "تحفة الأوّاه (تخميس)",
-      "english": "Tuhfatul awwaah (Taxmiis, Traduction)",
-      "pdfURL": "http://127.0.0.1:8080/Tuhfatul_awwaah_(Taxmiis,_Traduction).pdf",
+      "english": "Tuhfatul awwaah",
+      "pdfURL": "http://127.0.0.1:8080/Tuhfatul_awwaah_(Taxmiis_Traduction).pdf",
       "versesCount": 85,
       "pageCount": 8
    },
@@ -1010,8 +978,8 @@
    {
       "id": "E1086E79-EC63-4BA8-9799-DDB0F1260587",
       "arabic": "وصف المريد _ صفات صادق المريد",
-      "english": "Wasful muriid & shifaatu shaadiqil muriid",
-      "pdfURL": "http://127.0.0.1:8080/Wasful_muriid_&_shifaatu_shaadiqil_muriid.pdf",
+      "english": "Wasful muriid shifaatu shaadiqil muriid",
+      "pdfURL": "http://127.0.0.1:8080/Wasful_muriid_shifaatu_shaadiqil_muriid.pdf",
       "versesCount": 18,
       "pageCount": 8
    },
@@ -1143,4 +1111,4 @@
       "versesCount": 14,
       "pageCount": 8
    }
-]}
+]
