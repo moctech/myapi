@@ -3,7 +3,7 @@
       "id": "5CD81DB1-0239-4F25-94E8-E0A0EE1780A5",
       "arabic": "أبوبكر",
       "english": "Abuu Bakr",
-      "pdfURL": "http://192.168.8.173:8080Abou_Bakr.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Abou_Bakr.pdf",
       "versesCount": 6,
       "pageCount": 1
    },
@@ -11,7 +11,7 @@
       "id": "CAA5143D-8E23-44E5-B1EB-EE188862F50A",
       "arabic": "أفلا تشكرون",
       "english": "Afalaa Tashkuruuna",
-      "pdfURL": "http://192.168.8.173:8080Afala_tashkourouna.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Afala_tashkourouna.pdf",
       "versesCount": 12,
       "pageCount": 8
    },
@@ -19,7 +19,7 @@
       "id": "7A269753-56C7-4C4D-9525-E8EDE463A201",
       "arabic": "أعاذني الباقي",
       "english": "Ahaanzanil Baaqii",
-      "pdfURL": "http://192.168.8.173:8080Ahazanil_bakhi.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Ahazanil_bakhi.pdf",
       "versesCount": 25,
       "pageCount": 8
    },
@@ -27,7 +27,7 @@
       "id": "6BCA98C6-5709-47DA-937D-BC1FC1B3C8C4",
       "arabic": "أهل بدر",
       "english": "Ahlu Badr",
-      "pdfURL": "http://192.168.8.173:8080Ahlou_Badr.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Ahlou_Badr.pdf",
       "versesCount": 6,
       "pageCount": 8
    },
@@ -35,7 +35,7 @@
       "id": "B75E32CB-53DE-4E5C-B041-757B7AF6838E",
       "arabic": "أحمد مغنيا",
       "english": "Ahmadu Mughniyan",
-      "pdfURL": "http://192.168.8.173:8080Ahmadou_Moukhniyan.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Ahmadou_Moukhniyan.pdf",
       "versesCount": 99,
       "pageCount": 8
    },
@@ -43,7 +43,7 @@
       "id": "63C7ABB7-D320-4C4A-B070-73ECD0E9DC69",
       "arabic": "أعوذبالله من ميلي",
       "english": "Ahuunzu Billaahi Min Maylii",
-      "pdfURL": "http://192.168.8.173:8080Ahonzou_Billahi_Min_Mayli.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Ahonzou_Billahi_Min_Mayli.pdf",
       "versesCount": 24,
       "pageCount": 8
    },
@@ -51,7 +51,7 @@
       "id": "4A732FA3-8D75-4216-97F9-B4D9BEBE69F0",
       "arabic": "أعوذ بالله",
       "english": "Ahuunzu Billaahi Zil Wujuudi",
-      "pdfURL": "http://192.168.8.173:8080Ahonzou_billahi_zil_woujoudi.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Ahonzou_billahi_zil_woujoudi.pdf",
       "versesCount": 9,
       "pageCount": 8
    },
@@ -59,7 +59,7 @@
       "id": "4AB54434-3F4F-43E5-AC8D-62955AB69C57",
       "arabic": "أحييت مولد النبي",
       "english": "Ahyaytu Mawlidan Nabii",
-      "pdfURL": "http://192.168.8.173:8080Ahyaytou_mawlidan_nabi.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Ahyaytou_mawlidan_nabi.pdf",
       "versesCount": 18,
       "pageCount": 8
    },
@@ -67,7 +67,7 @@
       "id": "5B62ED0F-D514-45F6-A5A0-B32C0FDFC79A",
       "arabic": "أجابني رب السماء",
       "english": "Ajaabanii Rabbus Samaa",
-      "pdfURL": "http://192.168.8.173:8080Adiabani_Rabboussama.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Adiabani_Rabboussama.pdf",
       "versesCount": 39,
       "pageCount": 8
    },
@@ -75,7 +75,7 @@
       "id": "63A3CD67-780D-47E9-95F9-476FB53EF9F0",
       "arabic": "أجابني خير باق",
       "english": "Ajaabanii Khayru Baaqin",
-      "pdfURL": "http://192.168.8.173:8080Adiabani_khayrou_bakhin.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Adiabani_khayrou_bakhin.pdf",
       "versesCount": 6,
       "pageCount": 8
    },
@@ -83,7 +83,7 @@
       "id": "85501E1D-FF0A-4CEF-8806-7A0114A8FDCE",
       "arabic": "الحمد لله الذى متىٰ ذهب",
       "english": "Alhamdu Lillaahi Lazii Mataa Zahab",
-      "pdfURL": "http://192.168.8.173:8080Alhamdou_Lillahi_lazi_mata_zahab.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Alhamdou_Lillahi_lazi_mata_zahab.pdf",
       "versesCount": 21,
       "pageCount": 8
    },
@@ -91,7 +91,7 @@
       "id": "D0A1E371-A576-49DA-87F1-3D0C24B2B1DE",
       "arabic": "الله خيرالرٌازقين",
       "english": "Allaahu Khayru Raaziqiin",
-      "pdfURL": "http://192.168.8.173:8080Allahu_xayrur_raaziqiin.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Allahu_xayrur_raaziqiin.pdf",
       "versesCount": 15,
       "pageCount": 8
    },
@@ -99,7 +99,7 @@
       "id": "76EBD345-F70B-4211-A5E0-34EF64E10447",
       "arabic": "الله إلى سوى",
       "english": "Allaahu Ilaa Siwaaya",
-      "pdfURL": "http://192.168.8.173:8080Allahu-_Ila_siwaaya.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Allahu-_Ila_siwaaya.pdf",
       "versesCount": 5,
       "pageCount": 8
    },
@@ -107,7 +107,7 @@
       "id": "964E184E-7AC9-46B5-AAD0-3607A1059885",
       "arabic": "انت ربٌ",
       "english": "Anta Rabbi",
-      "pdfURL": "http://192.168.8.173:8080Anta_Rabbi.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Anta_Rabbi.pdf",
       "versesCount": 27,
       "pageCount": 8
    },
@@ -115,7 +115,7 @@
       "id": "D69CCDD2-B9FB-4AE5-A4A3-BA0539777641",
       "arabic": "أشكر الله",
       "english": "Ashkurul Laaha",
-      "pdfURL": "http://192.168.8.173:8080Achkouroul_laha.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Achkouroul_laha.pdf",
       "versesCount": 12,
       "pageCount": 8
    },
@@ -123,7 +123,7 @@
       "id": "0E40A841-B98D-47C4-B883-72EFC6C9692C",
       "arabic": "أسير",
       "english": "Asiiru Mahanl Abraari",
-      "pdfURL": "http://192.168.8.173:8080Assiiru_mahal_abrari.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Assiiru_mahal_abrari.pdf",
       "versesCount": 56,
       "pageCount": 8
    },
@@ -131,7 +131,7 @@
       "id": "81AFC72A-F8A8-4629-A3D1-988AB16CDDEE",
       "arabic": "أستغفر الله به",
       "english": "Astaghfirul Laaha Bihii",
-      "pdfURL": "http://192.168.8.173:8080Astaxfirul_Laaha_bihii.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Astaxfirul_Laaha_bihii.pdf",
       "versesCount": 12,
       "pageCount": 8
    },
@@ -139,7 +139,7 @@
       "id": "763CE296-F03B-4D31-82CB-FE5A2C8EEA0C",
       "arabic": "أطاب لي الممر",
       "english": "Ataaba Lil Mamari",
-      "pdfURL": "http://192.168.8.173:8080Attaaba.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Attaaba.pdf",
       "versesCount": 116,
       "pageCount": 8
    },
@@ -147,7 +147,7 @@
       "id": "64C1C17F-EB22-4D25-A7C9-64241A739B18",
       "arabic": "أغناني",
       "english": "Aghnaaniya",
-      "pdfURL": "http://192.168.8.173:8080Akhnaniyal.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Akhnaniyal.pdf",
       "versesCount": 20,
       "pageCount": 8
    },
@@ -155,7 +155,7 @@
       "id": "C4D9CB6A-46E7-4DA0-AF05-A72E42BADDAE",
       "arabic": "بسم الإله اكفني",
       "english": "Bismillaahi Ikfinii",
-      "pdfURL": "http://192.168.8.173:8080Bismil_ilaahi_ikfini.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Bismil_ilaahi_ikfini.pdf",
       "versesCount": 101,
       "pageCount": 8
    },
@@ -163,7 +163,7 @@
       "id": "6DCE65D9-00D9-4320-978F-D3F01811D424",
       "arabic": "بسم الله با لحمد",
       "english": "Bismillaahi Bil Hamdi",
-      "pdfURL": "http://192.168.8.173:8080Bismilahi_bil_hamdi.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Bismilahi_bil_hamdi.pdf",
       "versesCount": 13,
       "pageCount": 8
    },
@@ -171,7 +171,7 @@
       "id": "01F9B862-4126-4418-8F55-D72E5D934477",
       "arabic": "بشرى لنا",
       "english": "Bushraa Lanaa",
-      "pdfURL": "http://192.168.8.173:8080Bouchraa_lana.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Bouchraa_lana.pdf",
       "versesCount": 25,
       "pageCount": 8
    },
@@ -179,7 +179,7 @@
       "id": "592160F4-6302-4386-B65D-2C9D83D0D206",
       "arabic": "جمسش",
       "english": "Jamsashin",
-      "pdfURL": "http://192.168.8.173:8080Diamsachin.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Diamsachin.pdf",
       "versesCount": 4,
       "pageCount": 8
    },
@@ -187,7 +187,7 @@
       "id": "EFC80E6F-F577-45B2-A27B-7D1C48A4C276",
       "arabic": "فاز الذين",
       "english": "Faazal Laziina",
-      "pdfURL": "http://192.168.8.173:8080Faazal_laziina.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Faazal_laziina.pdf",
       "versesCount": 17,
       "pageCount": 8
    },
@@ -195,7 +195,7 @@
       "id": "CA9510E9-E1F2-4EBF-B8D6-1A7B9242EC8B",
       "arabic": "فاستجاب لهم ربّهم ـ فرّج بجاه المصطف",
       "english": "Farrij Bijaahil Mustafaa",
-      "pdfURL": "http://192.168.8.173:8080Farrij_Bijaahil_Mustafa.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Farrij_Bijaahil_Mustafa.pdf",
       "versesCount": 15,
       "pageCount": 8
    },
@@ -203,7 +203,7 @@
       "id": "B1C48064-83F0-4740-B7A2-452CD01C0886",
       "arabic": "فاستجاب",
       "english": "Fastajaaba",
-      "pdfURL": "http://192.168.8.173:8080Fastajaaba.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Fastajaaba.pdf",
       "versesCount": 7,
       "pageCount": 8
    },
@@ -211,7 +211,7 @@
       "id": "684F288A-086D-4BBA-AE6D-BFA6A5F9F2A2",
       "arabic": "فتح الفتاح في مدح المفتاح",
       "english": "Fathul fattaah Fii Madhil Miftaah",
-      "pdfURL": "http://192.168.8.173:8080Fathil_fattah_fi_madhil_miftah.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Fathil_fattah_fi_madhil_miftah.pdf",
       "versesCount": 196,
       "pageCount": 8
    },
@@ -219,7 +219,7 @@
       "id": "E5F3AA5A-B991-4506-9D92-220B965D40B4",
       "arabic": "فتح الفتاح في خدمة المفتاح",
       "english": "Fathul Fattaah Fii Khidamatil Miftaah",
-      "pdfURL": "http://192.168.8.173:8080Fathul_fattah_fi_xidmatil_miftah.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Fathul_fattah_fi_xidmatil_miftah.pdf",
       "versesCount": 185,
       "pageCount": 8
    },
@@ -227,7 +227,7 @@
       "id": "8CF5FD07-2A64-4C61-8E30-EABDD6B261FC",
       "arabic": "فزت بظرف الحسنات",
       "english": "Fuzti",
-      "pdfURL": "http://192.168.8.173:8080Fusti.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Fusti.pdf",
       "versesCount": 12,
       "pageCount": 8
    },
@@ -235,7 +235,7 @@
       "id": "4039B1FB-0C2B-473F-9AD6-9D761D3BB81D",
       "arabic": "عام دكسش",
       "english": "Haanma Daksashin",
-      "pdfURL": "http://192.168.8.173:8080Haama_Daksashin.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Haama_Daksashin.pdf",
       "versesCount": 7,
       "pageCount": 8
    },
@@ -243,7 +243,7 @@
       "id": "1C4E548A-855D-41AF-866E-F3F2DCBCE922",
       "arabic": "عام شهدنا بِكرم",
       "english": "Haanma Shahidnaa Bi Karam",
-      "pdfURL": "http://192.168.8.173:8080Haama_Saxidnaa_bikaram.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Haama_Saxidnaa_bikaram.pdf",
       "versesCount": 12,
       "pageCount": 8
    },
@@ -251,7 +251,7 @@
       "id": "08E9DA8A-D414-4C89-AD4F-5F8527547B30",
       "arabic": "حمدا لمن أورثنا الكتابا",
       "english": "Hamdan Liman Awrasanal Kitaab",
-      "pdfURL": "http://192.168.8.173:8080Hamdan_liman_awrasanaal_kitaabaa.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Hamdan_liman_awrasanaal_kitaabaa.pdf",
       "versesCount": 127,
       "pageCount": 8
    },
@@ -259,7 +259,7 @@
       "id": "881B77DA-3505-4201-94DF-564F535EAC17",
       "arabic": "حمد و شكر",
       "english": "Hamdii Wa Shukrii",
-      "pdfURL": "http://192.168.8.173:8080Hamdi_wa_shukri.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Hamdi_wa_shukri.pdf",
       "versesCount": 4,
       "pageCount": 8
    },
@@ -267,7 +267,7 @@
       "id": "811B8F10-0CB0-4B0F-A05F-1CECE502FFBE",
       "arabic": "جالبة المزيّات ودافعة الرّزيّات ـ همّت سليمى",
       "english": "Hammat Sulaymaa",
-      "pdfURL": "http://192.168.8.173:8080Hammat_Sulayma.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Hammat_Sulayma.pdf",
       "versesCount": 115,
       "pageCount": 8
    },
@@ -275,7 +275,7 @@
       "id": "8270923C-7E97-4023-82C3-28B40888FA89",
       "arabic": "حسبنا الله ونعم الوكيل",
       "english": "Hamidtu Man Yanhsimunii",
-      "pdfURL": "http://192.168.8.173:8080Hasbounallaha_wa_nihmal_wakil_-_Hamidtu_Man_Yuhsimuni.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Hasbounallaha_wa_nihmal_wakil_-_Hamidtu_Man_Yuhsimuni.pdf",
       "versesCount": 19,
       "pageCount": 8
    },
@@ -283,7 +283,7 @@
       "id": "395CBB6A-F33A-450F-AED5-091DA23C1589",
       "arabic": "حسبنا الله ونعم الوكيل ",
       "english": "Hut Yaa Hafiiz",
-      "pdfURL": "http://192.168.8.173:8080Hasbounallaha_wa_nihmal_wakil_-_Hout_yaa_hafiz.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Hasbounallaha_wa_nihmal_wakil_-_Hout_yaa_hafiz.pdf",
       "versesCount": 19,
       "pageCount": 8
    },
@@ -291,7 +291,7 @@
       "id": "E5BDD604-89B0-4282-AAAC-EEB8A7F98BCA",
       "arabic": "حجاب الدارين",
       "english": "Hijaabud Daarayni",
-      "pdfURL": "http://192.168.8.173:8080Hijabou_daarayni.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Hijabou_daarayni.pdf",
       "versesCount": 30,
       "pageCount": 8
    },
@@ -299,7 +299,7 @@
       "id": "C37BC217-A66D-4BE5-9C08-9A2BB19DBBCE",
       "arabic": "حقّ البكاء",
       "english": "Huqqal Bukaa-u",
-      "pdfURL": "http://192.168.8.173:8080Houqal_Boukaa_u.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Houqal_Boukaa_u.pdf",
       "versesCount": 78,
       "pageCount": 8
    },
@@ -307,7 +307,7 @@
       "id": "F5E1710A-3388-48F3-BC2E-E0CF6E2B1A7C",
       "arabic": "اهد جميعنا",
       "english": "Ihdi Jamiihanaa",
-      "pdfURL": "http://192.168.8.173:8080Ihdi_jami_hana.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Ihdi_jami_hana.pdf",
       "versesCount": 5,
       "pageCount": 8
    },
@@ -315,7 +315,7 @@
       "id": "36C3663F-F2BD-408E-ACD7-2131C98203A8",
       "arabic": "إهدنا صراطك بك",
       "english": "Ihdinaa Siraataka Bika",
-      "pdfURL": "http://192.168.8.173:8080ihdina_siratika_bika.pdf",
+      "pdfURL": "http://192.168.8.173:8080/ihdina_siratika_bika.pdf",
       "versesCount": 12,
       "pageCount": 8
    },
@@ -323,7 +323,7 @@
       "id": "EE5BFA7A-D817-4A3B-94AF-A0AA11666B65",
       "arabic": "احفظ لوجهك الكريم",
       "english": "Ihfaaz Li Wajhikal Kariimi",
-      "pdfURL": "http://192.168.8.173:8080Ihfas_li_wajhikal_kariimi.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Ihfas_li_wajhikal_kariimi.pdf",
       "versesCount": 5,
       "pageCount": 8
    },
@@ -331,7 +331,7 @@
       "id": "1774BBA1-7024-45D1-A840-B8512907E230",
       "arabic": " إلهام الاله ـ وجب حمد الخالق الرٌحمان",
       "english": "Ilhaamul illah - Wajaba Hamdu",
-      "pdfURL": "http://192.168.8.173:8080Ilhaamul_illah_-_Wajaba_hamdu_xaaliqil_rahmani.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Ilhaamul_illah_-_Wajaba_hamdu_xaaliqil_rahmani.pdf",
       "versesCount": 36,
       "pageCount": 8
    },
@@ -339,7 +339,7 @@
       "id": "85E04807-C5A3-43AC-BDA1-5428939D2272",
       "arabic": "إنما أمره إذآ أراد شيئا",
       "english": "Innamaa Amruhuu Izaa Araada Shay-an",
-      "pdfURL": "http://192.168.8.173:8080Innamaa_amruhuu_isaa_araada_shay-an.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Innamaa_amruhuu_isaa_araada_shay-an.pdf",
       "versesCount": 35,
       "pageCount": 8
    },
@@ -347,7 +347,7 @@
       "id": "9DA14C1A-343E-4966-9BF6-3CC3E01C3EE6",
       "arabic": "إنّني عذت",
       "english": "Innanii Hunztu",
-      "pdfURL": "http://192.168.8.173:8080Innanii_Huztu.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Innanii_Huztu.pdf",
       "versesCount": 59,
       "pageCount": 8
    },
@@ -355,7 +355,7 @@
       "id": "200A8ABA-0DF5-4107-B357-5E28583544B7",
       "arabic": "إصلاح الدارين",
       "english": "Islaahud Daarayni",
-      "pdfURL": "http://192.168.8.173:8080Islaahud_daarayni.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Islaahud_daarayni.pdf",
       "versesCount": 125,
       "pageCount": 8
    },
@@ -363,7 +363,7 @@
       "id": "61EDE706-DF8C-42C4-A3D2-35DE1B1CAE43",
       "arabic": "الإخلاص",
       "english": "Ikhlaas",
-      "pdfURL": "http://192.168.8.173:8080Ixlaas.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Ixlaas.pdf",
       "versesCount": 62,
       "pageCount": 8
    },
@@ -371,7 +371,7 @@
       "id": "4078D720-76B3-4D89-9AF1-BC7A10F5DA3F",
       "arabic": "جالبة المراغب",
       "english": "Jaalibatul Maraaghib",
-      "pdfURL": "http://192.168.8.173:8080Jaalibatul_Maraaxib.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Jaalibatul_Maraaxib.pdf",
       "versesCount": 532,
       "pageCount": 8
    },
@@ -379,7 +379,7 @@
       "id": "763A54C1-BDA7-482E-8EAF-7D29C74600AC",
       "arabic": "جاورت الله",
       "english": "Jaawartul Laaha",
-      "pdfURL": "http://192.168.8.173:8080Jawartul_Laha.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Jawartul_Laha.pdf",
       "versesCount": 29,
       "pageCount": 8
    },
@@ -387,7 +387,7 @@
       "id": "0B7C0D3A-E246-4BA6-8F4C-CCEA4D1CF50E",
       "arabic": "الجوهر النّفيس",
       "english": "Jawharun Nafiis",
-      "pdfURL": "http://192.168.8.173:8080Jawharun_nafis.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Jawharun_nafis.pdf",
       "versesCount": 675,
       "pageCount": 8
    },
@@ -395,7 +395,7 @@
       "id": "D2BC0EA4-1E79-4796-BE2F-40105156B4D1",
       "arabic": "جزاء الإحسان للخدّام",
       "english": "Jazaahul Ihsaan Lil Khuddaami - alhamdulilaahi lazi",
-      "pdfURL": "http://192.168.8.173:8080Jazaahul_ihsaan_lil_xuddaami_-_alhamdulilaahi_lazi.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Jazaahul_ihsaan_lil_xuddaami_-_alhamdulilaahi_lazi.pdf",
       "versesCount": 21,
       "pageCount": 8
    },
@@ -403,7 +403,7 @@
       "id": "91C5EA1F-7726-4712-8F58-A68251339CBF",
       "arabic": "لا تخف",
       "english": "Laa Takhaf",
-      "pdfURL": "http://192.168.8.173:8080Laa_taxaf.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Laa_taxaf.pdf",
       "versesCount": 5,
       "pageCount": 8
    },
@@ -411,7 +411,7 @@
       "id": "C1A9F7AD-61A4-4795-9CFE-9FBDC0476D27",
       "arabic": "لا ياتون",
       "english": "Laa Yaatuuna",
-      "pdfURL": "http://192.168.8.173:8080Laa_yaatuuna.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Laa_yaatuuna.pdf",
       "versesCount": 7,
       "pageCount": 8
    },
@@ -419,7 +419,7 @@
       "id": "7C3E0005-22C3-44D2-B2AA-CA4F6B512637",
       "arabic": "لك",
       "english": "Laka",
-      "pdfURL": "http://192.168.8.173:8080Laka.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Laka.pdf",
       "versesCount": 48,
       "pageCount": 8
    },
@@ -427,7 +427,7 @@
       "id": "4092FE7B-E0CC-412B-A971-D236503FFC26",
       "arabic": "ليعلم الناظر ",
       "english": "Li Yanhlaman Naaziru",
-      "pdfURL": "http://192.168.8.173:8080Liyahlaman_naaziru.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Liyahlaman_naaziru.pdf",
       "versesCount": 19,
       "pageCount": 8
    },
@@ -435,7 +435,7 @@
       "id": "AAF3B379-810D-436A-A4A7-1E51FF0DB2D9",
       "arabic": "مفاتح البشروالاٌمن ولجنٌه",
       "english": "Mafaatihul Bishri",
-      "pdfURL": "http://192.168.8.173:8080Mafatihul_Bichri_wal_amni_wal_Janna.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Mafatihul_Bichri_wal_amni_wal_Janna.pdf",
       "versesCount": 374,
       "pageCount": 8
    },
@@ -444,7 +444,7 @@
       "id": "8979EC63-108E-4197-BBC6-A2FF66E15317",
       "arabic": "مغالق النّيران ومفا تح الجنان",
       "english": "Maghaalihun Niiran wa Mafaatihul Jinaan",
-      "pdfURL": "http://192.168.8.173:8080Maghalihul_Niiran_wa_mafaatihul_jinan.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Maghalihul_Niiran_wa_mafaatihul_jinan.pdf",
       "versesCount": 188,
       "pageCount": 8
    },
@@ -452,7 +452,7 @@
       "id": "14C1E895-34DA-4809-B345-1034A7CADD69",
       "arabic": "هذا المشرب الصَّافي في مدح المصطفى الكافي ",
       "english": "Mashrabus Saafii",
-      "pdfURL": "http://192.168.8.173:8080Mashrabu_Saafi.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Mashrabu_Saafi.pdf",
       "versesCount": 40,
       "pageCount": 8
    },
@@ -460,7 +460,7 @@
       "id": "BBDA6F45-A532-462F-95C4-95F37ADD22E5",
       "arabic": "مسالك الجنان",
       "english": "Masaalikul Jinaan",
-      "pdfURL": "http://192.168.8.173:8080Massalikul_Jinane.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Massalikul_Jinane.pdf",
       "versesCount": 1562,
       "pageCount": 8
    },
@@ -468,7 +468,7 @@
       "id": "8070A822-1E1F-4F2F-A06D-A04FE2671835",
       "arabic": "مطلب الفوزين",
       "english": "Matlabul Fawzayni",
-      "pdfURL": "http://192.168.8.173:8080Matlabul_fawzayni.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Matlabul_fawzayni.pdf",
       "versesCount": 239,
       "pageCount": 8
    },
@@ -476,7 +476,7 @@
       "id": "76BD580D-1553-4EF5-B333-FAE5CD69C529",
       "arabic": "مطلب الشِّفاء",
       "english": "Matlabush Shifaa-i",
-      "pdfURL": "http://192.168.8.173:8080Matlabush_Shifa-i.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Matlabush_Shifa-i.pdf",
       "versesCount": 54,
       "pageCount": 8
    },
@@ -484,7 +484,7 @@
       "id": "294642A3-784E-41DD-A4FB-B692D1A7B30F",
       "arabic": "مواهب النافع في مدائح الشافع",
       "english": "Mawaahibu Naafinh",
-      "pdfURL": "http://192.168.8.173:8080Mawahibu_nafih.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Mawahibu_nafih.pdf",
       "versesCount": 166,
       "pageCount": 8
    },
@@ -492,7 +492,7 @@
       "id": "A75C275A-488E-49AA-B064-17CBB0F70017",
       "arabic": "مواهب القدُّوس",
       "english": "Mawaahibul Qudduus",
-      "pdfURL": "http://192.168.8.173:8080Mawahibul_quduss.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Mawahibul_quduss.pdf",
       "versesCount": 650,
       "pageCount": 8
    },
@@ -500,7 +500,7 @@
       "id": "160250B4-881A-4DDB-B41D-27B6FF323716",
       "arabic": "مدادي وأقلامي",
       "english": "Midaadii Wa Aqlaamii",
-      "pdfURL": "http://192.168.8.173:8080Midaadi_wa_aqlaami.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Midaadi_wa_aqlaami.pdf",
       "versesCount": 66,
       "pageCount": 8
    },
@@ -508,7 +508,7 @@
       "id": "214483F4-2DCE-4D96-838D-38B0EDFD9CC8",
       "arabic": "القصيدة الميمية",
       "english": "Miimiya",
-      "pdfURL": "http://192.168.8.173:8080Mimiya.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Mimiya.pdf",
       "versesCount": 200,
       "pageCount": 8
    },
@@ -516,7 +516,7 @@
       "id": "C80082C4-7FD3-42DA-9BB3-4FC3A4B32530",
       "arabic": "منن الباقي القديم",
       "english": "Minanul Baaqil Qadiim",
-      "pdfURL": "http://192.168.8.173:8080Minanul_Baaqil_Qadiim.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Minanul_Baaqil_Qadiim.pdf",
       "versesCount": 239,
       "pageCount": 8
    },
@@ -524,7 +524,7 @@
       "id": "A4DD614A-D503-4AF7-B171-396B4A5599C4",
       "arabic": "محمّدٌ محمّدٌ",
       "english": "Muhammad Muhammad - Midaadii Wa Aqlaamii Wa Kullii",
-      "pdfURL": "http://192.168.8.173:8080Muhammad_Muhammad_-_midaadi_wa_aqlaami_wa_kouli.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Muhammad_Muhammad_-_midaadi_wa_aqlaami_wa_kouli.pdf",
       "versesCount": 10,
       "pageCount": 8
    },
@@ -532,7 +532,7 @@
       "id": "F3D3A4C8-3EE8-4A9B-8727-658314DE6BB3",
       "arabic": "محمّد رسول الله  - مدلى المختار من إلاهى",
       "english": "Muhammadur Rasuulul Laahi - Maddaliyal Mukhtaaru Min Ilaahi",
-      "pdfURL": "http://192.168.8.173:8080Mouhamadou_Rasouloul_Lah_-_Madaliyal_Moukhtarou_min_ilahi.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Mouhamadou_Rasouloul_Lah_-_Madaliyal_Moukhtarou_min_ilahi.pdf",
       "versesCount": 14,
       "pageCount": 8
    },
@@ -540,7 +540,7 @@
       "id": "9E8F83CC-B96C-48D7-A897-DDF84CA8FEE7",
       "arabic": "محمّد رسول الله  - من شك فى كون ابن عبد الله",
       "english": "Muhammadur Rasuulul Laahi - Man Shakka",
-      "pdfURL": "http://192.168.8.173:8080Mouhamadou_Rasulu_Lah_-_Man_shakka_fi_kawni-ibn_habdil_Laah.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Mouhamadou_Rasulu_Lah_-_Man_shakka_fi_kawni-ibn_habdil_Laah.pdf",
       "versesCount": 14,
       "pageCount": 8
    },
@@ -548,7 +548,7 @@
       "id": "32DCB669-F1BF-4025-89A1-DDA7D4E1BDB1",
       "arabic": "مقدّمات الأمداح في مزايا المفتاح",
       "english": "Muqaddamaatul Amdaah",
-      "pdfURL": "http://192.168.8.173:8080Muqadamaatul_Amdah.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Muqadamaatul_Amdah.pdf",
       "versesCount": 196,
       "pageCount": 8
    },
@@ -556,7 +556,7 @@
       "id": "64EF5DB5-A8DA-4AF3-88B4-D0AC7FE32A56",
       "arabic": "نهج قضاء الحاج",
       "english": "Nahju Qadaa-il Haaj",
-      "pdfURL": "http://192.168.8.173:8080arabichju_qadaa_il_haj.pdf",
+      "pdfURL": "http://192.168.8.173:8080/arabichju_qadaa_il_haj.pdf",
       "versesCount": 244,
       "pageCount": 8
    },
@@ -564,7 +564,7 @@
       "id": "A20F130B-0155-4253-B2BF-B3A25552DA0D",
       "arabic": "نور الدّارين ",
       "english": "Nuutu Daarayni",
-      "pdfURL": "http://192.168.8.173:8080Nourou_Darayni.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Nourou_Darayni.pdf",
       "versesCount": 1370,
       "pageCount": 8
    },
@@ -572,7 +572,7 @@
       "id": "11B3333E-2D0A-4919-B5F4-C16F421593B8",
       "arabic": "رجب ـ رفعت أمداح",
       "english": "Rajab - Rafahtu Amdaahi",
-      "pdfURL": "http://192.168.8.173:8080Rajab_-_Rafahtu_Amdaahi.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Rajab_-_Rafahtu_Amdaahi.pdf",
       "versesCount": 3,
       "pageCount": 8
    },
@@ -580,7 +580,7 @@
       "id": "0747FFF6-2FD5-46EA-BD9B-0EFF737EBC35",
       "arabic": "رمنا شكور",
       "english": "Rumnaa Shukuur",
-      "pdfURL": "http://192.168.8.173:8080Rumnaa_shukur.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Rumnaa_shukur.pdf",
       "versesCount": 89,
       "pageCount": 8
    },
@@ -588,7 +588,7 @@
       "id": "BB3608B0-9506-42D1-849C-84774122A25E",
       "arabic": "صفر همسش صفر به،",
       "english": "Safaru Hamsashin",
-      "pdfURL": "http://192.168.8.173:8080Safaru_Hamsashine.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Safaru_Hamsashine.pdf",
       "versesCount": 12,
       "pageCount": 8
    },
@@ -596,7 +596,7 @@
       "id": "6025B1E9-2B85-42FE-BDDC-BA6118699498",
       "arabic": "شكور رافع",
       "english": "Shakuuru Raafihun",
-      "pdfURL": "http://192.168.8.173:8080Shakourou_rafihou.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Shakourou_rafihou.pdf",
       "versesCount": 8,
       "pageCount": 8
    },
@@ -604,7 +604,7 @@
       "id": "C3904C30-44FA-4433-9ECC-8F05AEF8AD55",
       "arabic": "شاق على",
       "english": "Shaqaa Hanlaa",
-      "pdfURL": "http://192.168.8.173:8080Shaqa_Halaa.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Shaqa_Halaa.pdf",
       "versesCount": 12,
       "pageCount": 8
    },
@@ -612,7 +612,7 @@
       "id": "35FE838F-A200-410C-BA25-DF4DFC479677",
       "arabic": "السلسلة القادرية",
       "english": "Silsilatul Qaadiriiyah",
-      "pdfURL": "http://192.168.8.173:8080Silsilatul_Xaadiriya.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Silsilatul_Xaadiriya.pdf",
       "versesCount": 85,
       "pageCount": 8
    },
@@ -620,7 +620,7 @@
       "id": "0B46AD30-AE06-4546-B1E3-243F7FEC41BB",
       "arabic": "الصّنديد",
       "english": "Sindiidi",
-      "pdfURL": "http://192.168.8.173:8080Sindidi.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Sindidi.pdf",
       "versesCount": 50,
       "pageCount": 8
    },
@@ -628,7 +628,7 @@
       "id": "323FF402-720C-412D-98FF-906E18902BAF",
       "arabic": "سبحٰن ربنا إن كان وعد ربنا  لمفعولا",
       "english": "Subhaana Rabbinaa",
-      "pdfURL": "http://192.168.8.173:8080Subhaana_rabbinaa_in_kaana_wahdu_rabbinaa_lamafhuulan.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Subhaana_rabbinaa_in_kaana_wahdu_rabbinaa_lamafhuulan.pdf",
       "versesCount": 30,
       "pageCount": 8
    },
@@ -636,7 +636,7 @@
       "id": "3315313E-3BD7-4EFC-82E4-9DCE0153C3E2",
       "arabic": "سلّم الوصول في الثناء على النّبيِّ الرّسول - على من",
       "english": "Sullamul Wusuul - Hanlaa Man",
-      "pdfURL": "http://192.168.8.173:8080Sullamul_Wusuul_-_Halaaman.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Sullamul_Wusuul_-_Halaaman.pdf",
       "versesCount": 36,
       "pageCount": 8
    },
@@ -644,7 +644,7 @@
       "id": "14B2BA77-C1D9-47B3-8B60-00EACB7C47B9",
       "arabic": "سورة الفلق",
       "english": "Suuratul Falaq",
-      "pdfURL": "http://192.168.8.173:8080Suuratul_Falakhi.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Suuratul_Falakhi.pdf",
       "versesCount": 78,
       "pageCount": 8
    },
@@ -652,7 +652,7 @@
       "id": "741D1295-1483-4BC4-8722-5169F6C237FD",
       "arabic": "تخلية عن الذنوب",
       "english": "Takhliyatu Haniz Zunuub",
-      "pdfURL": "http://192.168.8.173:8080Taxliyatun_hanis-sunuub.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Taxliyatun_hanis-sunuub.pdf",
       "versesCount": 19,
       "pageCount": 8
    },
@@ -660,7 +660,7 @@
       "id": "3AF4F7EC-9DDD-4B4D-96EA-02FF9BEB7B26",
       "arabic": "تيسير العسير فى الصّلاة والتّسليم على البشيروالنّذير",
       "english": "Taysirul Hansiir",
-      "pdfURL": "http://192.168.8.173:8080Taysirul_Asir.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Taysirul_Asir.pdf",
       "versesCount": 295,
       "pageCount": 8
    },
@@ -668,7 +668,7 @@
       "id": "FC7AD328-BBEB-4C20-B22E-B97A6E047333",
       "arabic": "تزوّد الشّبّان",
       "english": "Tazawwudus Shubbaan",
-      "pdfURL": "http://192.168.8.173:8080Tazawudu-s_Shubbaan.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Tazawudu-s_Shubbaan.pdf",
       "versesCount": 699,
       "pageCount": 8
    },
@@ -676,7 +676,7 @@
       "id": "6EB1FA32-6045-4B0C-86B9-6E98E7D081D9",
       "arabic": "تزوّد الصّغار",
       "english": "Tazawwudus Sighaar",
-      "pdfURL": "http://192.168.8.173:8080Tazawudu-s_sighar.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Tazawudu-s_sighar.pdf",
       "versesCount": 308,
       "pageCount": 8
    },
@@ -684,7 +684,7 @@
       "id": "4C7072D1-E779-409C-A425-2F813F9E8F5D",
       "arabic": "تحفة الأوّاه (تخميس)",
       "english": "Tuhfatul Awwaah (Takhmiis)",
-      "pdfURL": "http://192.168.8.173:8080Tuhfatul_awwaah_(Taxmiis).pdf",
+      "pdfURL": "http://192.168.8.173:8080/Tuhfatul_awwaah_(Taxmiis).pdf",
       "versesCount": 85,
       "pageCount": 8
    },
@@ -692,7 +692,7 @@
       "id": "99AE6272-2004-44F8-AC1D-420D0E1D4E68",
       "arabic": "تحفة المتضرعين",
       "english": "Tuhfatul Mutadarihiinna",
-      "pdfURL": "http://192.168.8.173:8080Tuhfatul_Mutadarihina.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Tuhfatul_Mutadarihina.pdf",
       "versesCount": 48,
       "pageCount": 8
    },
@@ -700,7 +700,7 @@
       "id": "BBDD86B9-6CD3-4F26-8024-500BD4971227",
       "arabic": "طوبى لهم وحسن مئاب",
       "english": "Tuubaa Lahum Wa Husnu Ma-aab",
-      "pdfURL": "http://192.168.8.173:8080Touba_lahum_wahousnou_maabin.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Touba_lahum_wahousnou_maabin.pdf",
       "versesCount": 15,
       "pageCount": 8
    },
@@ -708,7 +708,7 @@
       "id": "4DD7EBE7-A4BF-4F29-83D5-23B18BB2801F",
       "arabic": "وفجرنا الارض عيونا",
       "english": "Wa Fajjarnal Arda Hunyuunan",
-      "pdfURL": "http://192.168.8.173:8080Wa_fajjarnaa_larda_huyuunan.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Wa_fajjarnaa_larda_huyuunan.pdf",
       "versesCount": 18,
       "pageCount": 8
    },
@@ -716,7 +716,7 @@
       "id": "056614FA-3A6F-4801-A479-53B7A451CE96",
       "arabic": " وعلّم ءادم الاساء كلٌها",
       "english": "Wa Hanllama Aadama Asmaa-a Kullahaa",
-      "pdfURL": "http://192.168.8.173:8080Wa_hallama_Aadama_asmaa_kullaha.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Wa_hallama_Aadama_asmaa_kullaha.pdf",
       "versesCount": 21,
       "pageCount": 8
    },
@@ -724,7 +724,7 @@
       "id": "C835D724-82B9-4EC1-AFF0-0A903248C15C",
       "arabic": "وإنّك لعلى خلق عظيم",
       "english": "Wajhun Nabiiyil Muntaqaa)",
-      "pdfURL": "http://192.168.8.173:8080Wa_innaka_lahalaa_xuluxin_hasiim_(_Wajhun-nabiyyil_muntaxaa).pdf",
+      "pdfURL": "http://192.168.8.173:8080/Wa_innaka_lahalaa_xuluxin_hasiim_(_Wajhun-nabiyyil_muntaxaa).pdf",
       "versesCount": 16,
       "pageCount": 8
    },
@@ -733,7 +733,7 @@
       "id": "F67D9624-84F3-4229-A9F2-D017A7BF5DA3",
       "arabic": "ولله الاسماء الحسنىٰ فاد عوه بها",
       "english": "Wa Lillaahi Asmaa-ul Husnaa faadhuuhu bihaa",
-      "pdfURL": "http://192.168.8.173:8080Wa_Lillaahi_Asmaa-ul_husnaa_faadhuuhu_bihaa.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Wa_Lillaahi_Asmaa-ul_husnaa_faadhuuhu_bihaa.pdf",
       "versesCount": 122,
       "pageCount": 8
    },
@@ -741,7 +741,7 @@
       "id": "3331F28A-C1D5-408A-891F-E36D11FD4B9D",
       "arabic": "وأفوض أمري إلى الله",
       "english": "Wa Ufawwidu Amriya Ilal Laahi",
-      "pdfURL": "http://192.168.8.173:8080Wa_ufawwidu_amriya_ilal_Laahi.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Wa_ufawwidu_amriya_ilal_Laahi.pdf",
       "versesCount": 36,
       "pageCount": 8
    },
@@ -749,7 +749,7 @@
       "id": "DC5716E9-01D8-484D-9EFC-BA06E8D1A31B",
       "arabic": "وقد شكرت الله بذا",
       "english": "Wa khad shakartoul Laaha biza",
-      "pdfURL": "http://192.168.8.173:8080Wa_khad_shakartoul_Laaha_biza.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Wa_khad_shakartoul_Laaha_biza.pdf",
       "versesCount": 15,
       "pageCount": 8
    },
@@ -757,7 +757,7 @@
       "id": "0448F2B7-A4A4-490A-9E78-E9DFE62E324B",
       "arabic": "واجهت ربى بالأسامى الحسنٰ",
       "english": "Wajjahtu Rabbii Bil Asaamil Husnaa",
-      "pdfURL": "http://192.168.8.173:8080Waa_jahtu_Rabbii_bil-asaamiil_husnaa.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Waa_jahtu_Rabbii_bil-asaamiil_husnaa.pdf",
       "versesCount": 22,
       "pageCount": 8
    },
@@ -765,7 +765,7 @@
       "id": "84FC8271-8CAD-4206-A1E1-8B2B357001BD",
       "arabic": "وجهّت وجهي",
       "english": "Wajjahtu Wajhiya",
-      "pdfURL": "http://192.168.8.173:8080Wadieuhtou_wadjhiya.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Wadieuhtou_wadjhiya.pdf",
       "versesCount": 25,
       "pageCount": 8
    },
@@ -773,7 +773,7 @@
       "id": "D56483C6-DA0F-4F36-85A2-C56D4C968717",
       "arabic": "وكان حقّا علينا",
       "english": "Wa Kaana Khaqan Hanlaynaa",
-      "pdfURL": "http://192.168.8.173:8080Wakaana_haqan_halaynaa.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Wakaana_haqan_halaynaa.pdf",
       "versesCount": 152,
       "pageCount": 8
    },
@@ -781,7 +781,7 @@
       "id": "D3F117C2-3AC1-4F86-8BF7-CED82D6CF911",
       "arabic": "والبلد الطّيب",
       "english": "Wal Baladut Tayyibu",
-      "pdfURL": "http://192.168.8.173:8080Wal_Baladou_Tayib.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Wal_Baladou_Tayib.pdf",
       "versesCount": 30,
       "pageCount": 8
    },
@@ -789,7 +789,7 @@
       "id": "4761CFCE-AC4D-424B-8F39-DDC7832FF6FF",
       "arabic": "ولقد كرّمنا",
       "english": "Wa Laqad Karramnaa Banii Aadama",
-      "pdfURL": "http://192.168.8.173:8080Walakhad_karamna_bani_adama.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Walakhad_karamna_bani_adama.pdf",
       "versesCount": 86,
       "pageCount": 8
    },
@@ -797,7 +797,7 @@
       "id": "B7617E11-805B-4C1F-A86D-566AD3B03A54",
       "arabic": "وقاني حفيظ",
       "english": "Waqaanii Hafiizun",
-      "pdfURL": "http://192.168.8.173:8080Waqaanii_hafizun.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Waqaanii_hafizun.pdf",
       "versesCount": 17,
       "pageCount": 8
    },
@@ -805,7 +805,7 @@
       "id": "E1086E79-EC63-4BA8-9799-DDB0F1260587",
       "arabic": "وصف المريد _ صفات صادق المريد",
       "english": "Wasful Muriid - Sifaatu Saadiqil Muriid",
-      "pdfURL": "http://192.168.8.173:8080Wasful_muriid_shifaatu_shaadiqil_muriid.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Wasful_muriid_shifaatu_shaadiqil_muriid.pdf",
       "versesCount": 18,
       "pageCount": 8
    },
@@ -813,7 +813,7 @@
       "id": "975CA591-0CB0-4F8A-972D-91976F3A9C03",
       "arabic": "وسيلة الرّبوح",
       "english": "Wasiilatu Rubuuh",
-      "pdfURL": "http://192.168.8.173:8080Wassiilatur_Ruboh.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Wassiilatur_Ruboh.pdf",
       "versesCount": 278,
       "pageCount": 8
    },
@@ -821,7 +821,7 @@
       "id": "6F363A84-6BC4-4648-990F-C5EF86EC0BCD",
       "arabic": "ووصّينا الانسان بوالديه حسنا",
       "english": "Wa Wasaynal Insaana Bi Waalidayhi Husnan",
-      "pdfURL": "http://192.168.8.173:8080Wawassaynal_Inssana_Biwaalidayhi_Husnan.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Wawassaynal_Inssana_Biwaalidayhi_Husnan.pdf",
       "versesCount": 25,
       "pageCount": 8
    },
@@ -829,7 +829,7 @@
       "id": "C7AF1049-0B8F-45BA-960F-A0E004D09331",
       "arabic": "خمسة الرجال",
       "english": "Khamsatu Rijaal",
-      "pdfURL": "http://192.168.8.173:8080Xamsatur_rijaal.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Xamsatur_rijaal.pdf",
       "versesCount": 16,
       "pageCount": 8
    },
@@ -837,7 +837,7 @@
       "id": "997EE811-949B-4BA1-8530-4DEBC9E881C9",
       "arabic": "يا مكرم الضّيف",
       "english": "Yaa Mukrima Dayfi",
-      "pdfURL": "http://192.168.8.173:8080Yaa_Mukrimad_Dayfine.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Yaa_Mukrimad_Dayfine.pdf",
       "versesCount": 14,
       "pageCount": 8
    },
@@ -845,7 +845,7 @@
       "id": "505BA5B6-6C15-407A-A992-75BCA343EB0F",
       "arabic": "يا ربّ بالمصطفى",
       "english": "Yaa Rabbi Bil Mustafaa",
-      "pdfURL": "http://192.168.8.173:8080Yaa_rabbi_bil_Mustafaa.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Yaa_rabbi_bil_Mustafaa.pdf",
       "versesCount": 7,
       "pageCount": 8
    },
@@ -853,7 +853,7 @@
       "id": "C6E061C8-1A74-4460-BDA2-E81A6FAB49C3",
       "arabic": "ياربّ نجّنا",
       "english": "Yaa Rabbi Najjinaa",
-      "pdfURL": "http://192.168.8.173:8080Yaa_Rabbi_najina.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Yaa_Rabbi_najina.pdf",
       "versesCount": 4,
       "pageCount": 8
    },
@@ -861,7 +861,7 @@
       "id": "1747BD83-D897-41AE-B48A-2EFF492EFF6F",
       "arabic": "يا ذا البشارات",
       "english": "Yaa Zal Bushaaraati",
-      "pdfURL": "http://192.168.8.173:8080Yaa_zal_busharaati.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Yaa_zal_busharaati.pdf",
       "versesCount": 62,
       "pageCount": 8
    },
@@ -869,7 +869,7 @@
       "id": "E738393B-C4C6-4847-8E94-EE67EBDE8239",
       "arabic": "يالله يامن لاإله غيره",
       "english": "Yallaahu Yaa Man Laa Ilaaha Ghayruhu",
-      "pdfURL": "http://192.168.8.173:8080Yallaahou_ya_man_laa_illaaha_khayrouhou.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Yallaahou_ya_man_laa_illaaha_khayrouhou.pdf",
       "versesCount": 40,
       "pageCount": 8
    },
@@ -877,7 +877,7 @@
       "id": "F4A29E21-E840-4697-BAE4-80C28D01720B",
       "arabic": "يقول عبد الله",
       "english": "Yaquulu Hanbdul Laahi",
-      "pdfURL": "http://192.168.8.173:8080Yaquulu_hanbdul_Laahi.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Yaquulu_hanbdul_Laahi.pdf",
       "versesCount": 12,
       "pageCount": 8
    },
@@ -885,7 +885,7 @@
       "id": "61448F34-7514-4B0A-BD60-C86B620ECBBF",
       "arabic": "يا رحمان يا رحيم",
       "english": "Yaa Rahmaanu Yaa Rahiimu",
-      "pdfURL": "http://192.168.8.173:8080Yarahmanou-Yarahimou.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Yarahmanou-Yarahimou.pdf",
       "versesCount": 9,
       "pageCount": 8
    },
@@ -893,7 +893,7 @@
       "id": "146B0234-1A34-4C37-819A-F79E3047CD46",
       "arabic": "يسرّ رسول الله",
       "english": "Yasurru Rasuulal Laahi",
-      "pdfURL": "http://192.168.8.173:8080Yassurru_rassulal_laahi.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Yassurru_rassulal_laahi.pdf",
       "versesCount": 12,
       "pageCount": 8
    },
@@ -901,7 +901,7 @@
       "id": "CA490AB2-C8A0-4D8D-9D7B-EFA9EB36C6FD",
       "arabic": "يَسرّ لي - يوم عرفة بلسش",
       "english": "Yawma Hanrafata Balsashin - Yassaralii",
-      "pdfURL": "http://192.168.8.173:8080Yawma_harafata_basashin_-_Yassaralii.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Yawma_harafata_basashin_-_Yassaralii.pdf",
       "versesCount": 12,
       "pageCount": 8
    },
@@ -909,7 +909,7 @@
       "id": "C8C9A0D1-54A1-4868-B1D0-203CD34C2647",
       "arabic": "يوم الخميس في رجب",
       "english": "Yawmul Khamiisi Fii Rajab",
-      "pdfURL": "http://192.168.8.173:8080Yawmul_Qamiissi_fii_rajab.pdf",
+      "pdfURL": "http://192.168.8.173:8080/Yawmul_Qamiissi_fii_rajab.pdf",
       "versesCount": 14,
       "pageCount": 8
    }
